@@ -1,0 +1,1 @@
+This is a new file in master created while branch2 is being worked on.
