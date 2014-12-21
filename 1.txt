@@ -1,9 +1,13 @@
 This is the first file.
-
+This should be on the second line. Inserted by branch 3.
 Second commit on first file.
+This should be just after "second commit" line. inserted by branch 3
 
 line 3
 
 line 4
 
 line 5
+
+This should be the last line of the file. inserted by branch 3
+
